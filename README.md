@@ -5,8 +5,8 @@
 #### the image I use in this project is Saruman from 'The Lord of the Rings' film trilogy, played by my favorite actor, Sir Cristopher Lee
 
 ####other cool things featured in this project:
-##* original image: ![](images/saruman.jpg)
-##* grayscaled image: ![](images/sarumanGrey.jpg)
-##* gaussian blurred image: ![](images/sarumanGaussianBlur.jpg)
-##* edged image: ![](images/sarumanEdged.jpg)
-##* cartoon image: ![](images/sarumanCartoon.jpg)
+* original image: ![](images/saruman.jpg)
+* grayscaled image: ![](images/sarumanGrey.jpg)
+* gaussian blurred image: ![](images/sarumanGaussianBlur.jpg)
+* edged image: ![](images/sarumanEdged.jpg)
+* cartoon image: ![](images/sarumanCartoon.jpg)
