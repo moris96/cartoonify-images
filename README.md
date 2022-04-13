@@ -6,7 +6,7 @@
 
 ####other cool things featured in this project:
 ##* original image: ![](images/saruman.jpg)
-##* grayscaled image: ![](images/sarumanGrey.JPG)
-##* gaussian blurred image: ![](images/sarumanGaussianBlur.JPG)
-##* edged image: ![](images/sarumanEdged.JPG)
-##* cartoon image: ![](images/sarumanCartoon.JPG)
+##* grayscaled image: ![](images/sarumanGrey.jpg)
+##* gaussian blurred image: ![](images/sarumanGaussianBlur.jpg)
+##* edged image: ![](images/sarumanEdged.jpg)
+##* cartoon image: ![](images/sarumanCartoon.jpg)
